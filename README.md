@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,100:00c853&height=220&section=header&text=Ritik%20Moga&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Security%20%7C%20Minecraft%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:00bfa5&height=240&section=header&text=Ritik%20Moga&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=🛡️%20AI%20Security%20Developer%20|%20🌐%20Full%20Stack%20Developer%20|%20🎮%20Minecraft%20Enthusiast&descAlignY=65"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;AI+Security+Developer;Minecraft+Enjoyer+%F0%9F%8F%B0;Python+%7C+C+%7C+C%2B%2B;HTML+CSS+JavaScript;Always+Building+Something+Awesome"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=00FF88&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;AI+Security+Developer;Cybersecurity+Enthusiast;Minecraft+Builder+%F0%9F%8F%B0;Python+%7C+C+%7C+C%2B%2B+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Flask+Backend+Developer;Always+Learning+Something+New+%F0%9F%9A%80"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+</p>
 
 </div>
 
@@ -10,51 +16,70 @@
 
 # ⛏️ About Me
 
-🟩 Minecraft Builder
-
-🛡️ AI Security Developer
-
-🌍 Full Stack Web Developer
-
-🐍 Python Programmer
-
-⚡ C & C++ Programmer
-
-🎯 Building **ScamShield AI**
-
----
-
-# 🧱 My Inventory
-
-| Item | Level |
-|------|------|
-| ⛏️ Python | ██████████ |
-| ⚔️ C | █████████ |
-| 🏹 C++ | █████████ |
-| 🌐 HTML | ██████████ |
-| 🎨 CSS | █████████ |
-| ⚡ JavaScript | ████████ |
-| 🔥 Flask | █████████ |
-| 🛡️ Cybersecurity | ████████ |
-| ☁️ Cloud | ██████ |
+```yaml
+Name: Ritik Moga
+Role: AI Security Developer
+Location: India 🇮🇳
+Focus:
+  - AI Security
+  - Cybersecurity
+  - Full Stack Development
+  - Python
+  - C
+  - C++
+  - Web Development
+Current Project:
+  - ScamShield AI
+Learning:
+  - React
+  - Cloud Security
+  - Malware Analysis
+  - Reverse Engineering
+```
 
 ---
 
-# ⛏️ Tech Arsenal
+# 🎮 Minecraft Status
+
+🟩 Survival Mode: ON
+
+💎 Favorite Block: Diamond Block
+
+🪓 Favorite Tool: Netherite Pickaxe
+
+🏰 Builder Level: Expert
+
+🐺 Favorite Mob: Wolf
+
+🌲 Favorite Biome: Cherry Grove
+
+⚡ Redstone Learning...
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css"/>
 
 </p>
 
-### Web Technologies
+### Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,flask"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express"/>
 
 </p>
 
@@ -62,7 +87,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 
 </p>
 
@@ -70,102 +95,208 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
 
 </p>
 
 ---
 
-# 🏰 Minecraft Stats
+# 🛡️ Current Project
 
-🟩 Favorite Block → Diamond Block 💎
+## 🚀 ScamShield AI
 
-🪓 Favorite Tool → Netherite Pickaxe
+✔ AI Scam Detection
 
-🏹 Favorite Mob → Wolf
+✔ Phishing URL Scanner
 
-🔥 Favorite Biome → Cherry Grove
+✔ QR Code Scanner
 
-🌍 Playing Since → Java Edition
+✔ Malware Detection
+
+✔ Secure File Scanner
+
+✔ REST API
+
+✔ Flask Backend
+
+✔ Risk Analysis
+
+✔ JSON Reports
 
 ---
 
-# 🛡️ Current Project
+# 🚀 Open Source Contributions
 
-# 🚀 ScamShield AI
+🔹 AI Security Projects
 
-An AI-powered security toolkit capable of detecting
+🔹 Python Utilities
 
-✅ Phishing URLs
+🔹 Flask APIs
 
-✅ Scam Messages
+🔹 C Programs
 
-✅ Dangerous QR Codes
+🔹 C++ Algorithms
 
-✅ Malicious Files
+🔹 Web Applications
 
-✅ Suspicious Websites
+🔹 Open Source Bug Fixes
+
+🔹 Documentation
+
+🔹 Performance Optimization
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🎮 Achievement Unlocked
+# 🔥 Contribution Streak
 
-🏆 Built AI Security Projects
+<p align="center">
 
-🏆 Learning Reverse Engineering
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
-🏆 Web Development Explorer
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+# ⚡ Coding Statistics
+
+```text
+🐍 Python          ████████████████████ 35%
+
+⚔️ C              ███████████████      20%
+
+🏹 C++            ███████████████      20%
+
+🌐 HTML           ███████████          10%
+
+🎨 CSS            █████████            7%
+
+⚡ JavaScript     ███████              5%
+
+⚛ React          ████                 3%
+```
+
+---
+
+# 🎯 2026 Mission
+
+🏆 1000+ GitHub Contributions
+
+🏆 AI Security Platform
+
+🏆 Advanced C++
+
+🏆 React Mastery
+
+🏆 Cloud Security
+
+🏆 Reverse Engineering
 
 🏆 Open Source Contributor
 
-🏆 Minecraft Architect
+🏆 Minecraft Plugin Development
 
 ---
 
-# 🌱 Currently Learning
+# 📌 Featured Repositories
 
-⚔️ Malware Analysis
+⭐ ScamShield AI
 
-🧠 Machine Learning
+⭐ AI Security Toolkit
 
-☁️ Cloud Security
+⭐ Flask REST APIs
 
-🔒 Ethical Hacking
+⭐ Portfolio Website
 
-⚡ Advanced C++
+⭐ C Programming Collection
 
-🌐 React Ecosystem
+⭐ C++ Data Structures
+
+⭐ JavaScript Projects
+
+⭐ Python Automation
 
 ---
 
 # 🎵 Currently Grinding
 
-🎧 Coding + Lo-fi
-
-☕ Coffee
+🎮 Minecraft
 
 💻 VS Code
 
-🟩 Minecraft
+☕
+
+🎧 Lo-Fi
+
+🚀 Open Source
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 💎 "Keep Mining, Keep Building, Keep Securing."
+### 💎 *"Mine Ideas • Build Projects • Secure the Future"* ⛏️
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfa5,100:00c853&height=130&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0f9b0f&height=120&section=footer"/>
