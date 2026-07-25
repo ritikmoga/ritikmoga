@@ -45,6 +45,12 @@ approach    → learn deeply · build defensively · document clearly · ship re
 | --- | --- | --- |
 | HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS | Python, Flask, Node.js, Express, REST APIs, PostgreSQL, MongoDB, Redis | Docker, GitHub Actions, Git, testing, API documentation, secure configuration |
 
+## Certifications
+
+<div align="center">
+  <img src="./assets/cisco-ethical-hacker-badge.jpeg" alt="Cisco Networking Academy Verified Ethical Hacker badge" width="180" />
+</div>
+
 ## Featured build
 
 ### [ScamShield AI](https://github.com/ritikmoga/AI_SECURITY_FEATURE)
